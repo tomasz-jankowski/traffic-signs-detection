@@ -22,7 +22,6 @@ Main script used to show neural network predictions on given images. The way of 
 Main program of this project, uses trained model, sliding window and image pyramid to find and classify traffic sign.
 
 ## Results
-Those pictures show results achieved by this software:
 ![znaki1_007](https://user-images.githubusercontent.com/49961031/110140990-f9a7e200-7dd4-11eb-875a-e02ae2925d74.jpg)
 ![znaki4_002](https://user-images.githubusercontent.com/49961031/110141036-07f5fe00-7dd5-11eb-94b0-13c8d261e6d0.jpg)
 ![znaki5_002](https://user-images.githubusercontent.com/49961031/110141042-09272b00-7dd5-11eb-83ec-4daaa0479e63.jpg)
