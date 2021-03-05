@@ -6,12 +6,6 @@ Deep learning university project to detect and classify traffic sign in pictures
 
 ## Usage
 
-### Choose between CPU and GPU calculation
-Below line of code lets you choose used processing unit, comment it to use GPU.
-```
-os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
-```
-
 ### program2.py
 Artificial neural network architecture and training process.
 
