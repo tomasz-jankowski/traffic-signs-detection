@@ -1,5 +1,5 @@
 # traffic-sign-detector
-Deep learning university project to detect and classify traffic sign in pictures.
+Deep learning university project to detect and classify traffic signs from given images.
 
 [![Generic badge](https://img.shields.io/badge/python-3.7.7-blue.svg)](https://shields.io/)   [![Generic badge](https://img.shields.io/badge/anaconda-2019.10-green.svg)](https://shields.io/)   [![Generic badge](https://img.shields.io/badge/tensorflow-2.1.0-red.svg)](https://shields.io/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
@@ -10,10 +10,10 @@ Deep learning university project to detect and classify traffic sign in pictures
 Artificial neural network architecture and training process.
 
 ### classify.py
-Main script used to show neural network predictions on given images. The way of inputting path can be chosen in program.
+Main script used to show neural network predictions on given images.
 
 ### object_detector.py
-Main program of this project, uses trained model, sliding window and image pyramid to find and classify traffic sign.
+Main program of this project, uses trained model, sliding window and image pyramid techniques to find and classify traffic signs.
 
 ## Results
 ![znaki1_007](https://user-images.githubusercontent.com/49961031/110140990-f9a7e200-7dd4-11eb-875a-e02ae2925d74.jpg)
@@ -37,7 +37,7 @@ The project has been developed by:
  
 The MIT License (MIT)
 
-Copyright (c) 2021 Michał Kliczkowski
+Copyright (c) 2021 Michał Kliczkowski Tomasz Jankowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
