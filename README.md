@@ -1,4 +1,4 @@
-# traffic-sign-detector
+# traffic-signs-detection
 Deep learning university project to detect and classify traffic signs from given images.
 
 [![Generic badge](https://img.shields.io/badge/python-3.7.7-blue.svg)](https://shields.io/)   [![Generic badge](https://img.shields.io/badge/anaconda-2019.10-green.svg)](https://shields.io/)   [![Generic badge](https://img.shields.io/badge/tensorflow-2.1.0-red.svg)](https://shields.io/)
